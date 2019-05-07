@@ -17,8 +17,6 @@ title: Yüksel Aktepe
 email: yukselaktepe@hotmail.com.tr
 description: >- # this means to ignore newlines until "baseurl:"
   software developer , a fanatic Samsunspor :)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yuksel_aktepe
 github_username:  yukselaktepe
 linkedin_username:  yukselaktepe
